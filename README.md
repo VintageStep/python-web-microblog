@@ -4,7 +4,8 @@ This web app was developed following the following course: https://www.udemy.com
 I left it practically unchanged but I will add my own modifications later on. To list some possible changes:
   - Minor fixes like populating the entries' section from recent to old, and making sure the footer appears in the bottom of the page.
   - Dark mode.
-  - Title input field.
+  - Title input field for entries.
+  - Responsive design.
   - The possibility to append images to entries (probably by providing an external link rather than storing it in the DB)
 
 
